@@ -1,5 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sireethorn Pinthong ===========================================================================
-I am studying Computer Engineering at CMU and Business Administration at RU. 
+* I am studying Computer Engineering at CMU and Business Administration at RU. 
 * I am also a content creator on Youtube : sta stationery.  
 * 🌍  I'm based in Chiang Mai,Thailand. 
 * ✉️  You can contact me at [sireethorn2548.h20p@gmail.com](mailto:sireethorn2548.h20p@gmail.com)
